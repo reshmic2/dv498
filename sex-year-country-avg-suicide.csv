@@ -1,4 +1,4 @@
-sex,year,country,SUM of suicides_no
+sex,year,country,SUM_suicides_no
 female,2001,Albania,35
 female,2001,Antigua and Barbuda,0
 female,2001,Argentina,676
