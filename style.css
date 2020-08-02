@@ -1,0 +1,24 @@
+#tooltip {
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    width: 200px; height: 60px;
+    background: white;
+    border: 2px;
+    font-family: 'Verdana';
+}
+
+body{
+    background-color: off-white;
+ }
+
+ svg {
+    background-color: white;
+    font-family: 'Verdana';
+ }
+ 
+label {
+  color: red;
+  padding: 8px;
+}
+
